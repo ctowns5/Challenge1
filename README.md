@@ -23,4 +23,4 @@ THEN I find a concise, descriptive title
 
 div was replaced in the index.html with nav, main, section, and footer
 the title was changed to Horiseon Home
-CSS was edited to work with the html changes and comments added
+CSS was edited to work with the html changes and comments added and several sections consolidated
