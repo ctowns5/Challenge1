@@ -3,8 +3,6 @@
 Module 1 Challenge
 This was an assignment
 
-
-
 # <Module 1 Challenge>
 
 ## Description
@@ -44,9 +42,10 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
-```md
-![screenshot of the web page from this project](.assets/images/01-html-css-git-homework-demo.png)
-```
+## Picture of the web page
+
+![picture of the website](./assets/images/homework-demo.png)
+
 To complete this assignment I replaced the many divs in the index.html with the semantic elements nav, main, section, and footer
 
 the title was changed from webpage to Horiseon Home
@@ -54,7 +53,9 @@ the title was changed from webpage to Horiseon Home
 the style.css was edited to work with the html changes, comments were added and several sections were consolidated.
 
 ## Github repository
+
 https://github.com/ctowns5/Challenge1
 
 ## The URL of the deployed application
-https://
+
+https://ctowns5.github.io/Challenge1/
